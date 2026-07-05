@@ -8,10 +8,10 @@
 |--------|-------|
 | Wildcards | 2 |
 | URLs | 3 |
-| Subdomains Found | 182 |
-| Live Targets | 76 |
-| CORS Misconfigurations | 18 |
-| Nuclei Findings | 0 |
+| Subdomains Found |      182 |
+| Live Targets |       76 |
+| CORS Misconfigurations |       18 |
+| Nuclei Findings |        0 |
 | ffuf Findings | 0 |
 
 ## Files
@@ -20,4 +20,4 @@
 - `live-probe.txt`
 - `cors-test.txt`
 - `nuclei-results.txt`
-- `ffuf-results.json`
+- `ffuf-results.json\"
